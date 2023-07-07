@@ -1,1 +1,1 @@
-# willpoint.github.com
+# willpoint.github.io
